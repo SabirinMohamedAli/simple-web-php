@@ -28,7 +28,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
 <!-- Header -->
 <header>
-    <div class="logo">rina</div>
+    <div class="logo">mahira</div>
     <ul>
         <li><a href="#about">About us</a></li>
         <li><a href="#services">Services</a></li>
